@@ -1,2 +1,3 @@
+./miPrincipal/Perro.java
 ./miPrincipal/Principal.java
 ./miTest/AppTest.java
